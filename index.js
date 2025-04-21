@@ -1,2 +1,2 @@
 console.log('hello')
-cosole.log('test')
+console.log('test')
